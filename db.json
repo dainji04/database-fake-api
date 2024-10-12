@@ -297,15 +297,5 @@
     }
   ],
   "wish-list": [],
-  "user-products": [
-    {
-      "img": "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1718611570/ecommerce-vuejs/Our%20Products/cameraCanon.png",
-      "name": "CANON EOS DSLR Camera",
-      "price": "360",
-      "quantity": 1,
-      "subtotal": "",
-      "nameList": "just-for-you",
-      "id": 1
-    }
-  ]
+  "user-products": []
 }
