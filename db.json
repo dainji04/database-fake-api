@@ -297,5 +297,149 @@
     }
   ],
   "wish-list": [],
-  "user-products": []
+  "user-products": [],
+
+  "card": [
+    {
+      "id": 1,
+      "title": "Card 1",
+      "description": "",
+      "timeUpdated": "02/11/2024",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 2,
+      "title": "Card 2",
+      "description": "",
+      "timeUpdated": "02/11/2024",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 3,
+      "title": "Card 3",
+      "description": "",
+      "timeUpdated": "02/11/2024",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 4,
+      "title": "Card 4",
+      "description": "",
+      "timeUpdated": "02/11/2024",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 5,
+      "title": "Card 5",
+      "description": "",
+      "timeUpdated": "02/11/2024",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 6,
+      "title": "Card 6",
+      "description": "",
+      "timeUpdated": "02/11/2024",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 7,
+      "title": "Card 7",
+      "description": "",
+      "timeUpdated": "02/11/2024",
+      "content": "Em yêu,\n\nAnh muốn viết lá thư này để nói với em rằng em là người đặc biệt nhất trong cuộc đời anh. Từ khi gặp em, anh đã biết rằng em là người mà anh muốn dành cả cuộc đời để yêu thương và chăm sóc. Em đã mang đến cho anh niềm vui, hạnh phúc và sự ấm áp mà anh chưa từng có trước đây.\n\nAnh yêu em nhiều lắm, và anh sẽ luôn ở bên em, dù có chuyện gì xảy ra. Anh hy vọng rằng chúng ta sẽ cùng nhau vượt qua mọi khó khăn và xây dựng một tương lai tươi đẹp bên nhau.\n\nYêu em nhiều,\n[Your Name]"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "title": "My girlfriend images",
+      "description": "She is gonna high school",
+      "thumbnail": "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1729841200/memories%20with%20girlfriend/mygf_pvhsm3.jpg",
+      "srcImages": [
+        "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1729841200/memories%20with%20girlfriend/mygf_pvhsm3.jpg",
+        "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1729841200/memories%20with%20girlfriend/mygf_pvhsm3.jpg"
+      ],
+      "created": "28/10/2024",
+      "updated": "28/10/2024",
+      "slug": "my-girlfriend-images"
+    },
+    {
+      "id": 2,
+      "title": "Kẹp tóc của em",
+      "description": "Chiếc kẹp tóc bị em bỏ quên trên xe",
+      "thumbnail": "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205452/memories%20with%20girlfriend/IMG_9062_uqbcit.jpg",
+      "srcImages": [
+        "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205852/memories%20with%20girlfriend/IMG_9090_bthr13.jpg",
+        "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205452/memories%20with%20girlfriend/IMG_9062_uqbcit.jpg"
+      ],
+      "created": "29/10/2024",
+      "updated": "29/10/2024",
+      "slug": "kep-toc-cua-em"
+    },
+    {
+      "id": 3,
+      "title": "Chàng trai ngủ quên",
+      "description": "Sơ hở là ngủ khi bên em",
+      "thumbnail": "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205452/memories%20with%20girlfriend/IMG_0003_fmh3jx.jpg",
+      "srcImages": [
+        "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205452/memories%20with%20girlfriend/IMG_0003_fmh3jx.jpg"
+      ],
+      "created": "29/10/2024",
+      "updated": "29/10/2024",
+      "slug": "chang-trai-ngu-quen"
+    },
+    {
+      "id": 4,
+      "title": "Cô ấy selfie bằng máy của tôi",
+      "description": "Cô ấy nói xấu, bắt tôi xóa nhưng tôi vẫn lén giữ vì tôi thấy xinh",
+      "thumbnail": "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205452/memories%20with%20girlfriend/IMG_0005_ex6oge.jpg",
+      "srcImages": [
+        "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205452/memories%20with%20girlfriend/IMG_0005_ex6oge.jpg",
+        "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205454/memories%20with%20girlfriend/IMG_0004_q6mnwz.jpg"
+      ],
+      "created": "29/10/2024",
+      "updated": "29/10/2024",
+      "slug": "her-selfie"
+    },
+    {
+      "id": 5,
+      "title": "lần đầu video call",
+      "description": "cả 2 làm trò mèo",
+      "thumbnail": "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205460/memories%20with%20girlfriend/IMG_9315_u2ftdn.png",
+      "srcImages": [
+        "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205460/memories%20with%20girlfriend/IMG_9315_u2ftdn.png",
+        "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205453/memories%20with%20girlfriend/IMG_9314_en14rb.png"
+      ],
+      "created": "29/10/2024",
+      "updated": "29/10/2024",
+      "slug": "video-call"
+    },
+    {
+      "id": 6,
+      "title": "Đi xem phim minions",
+      "description": "lần đầu đi xem phim cùng nhau và được em tặng quà",
+      "thumbnail": "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205453/memories%20with%20girlfriend/IMG_9345_xypce1.png",
+      "srcImages": [
+        "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205452/memories%20with%20girlfriend/IMG_9349_zrpgrd.png",
+        "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205453/memories%20with%20girlfriend/IMG_9345_xypce1.png"
+      ],
+      "created": "29/10/2024",
+      "updated": "29/10/2024",
+      "slug": "di-xem-phim-minions"
+    },
+    {
+      "id": 7,
+      "title": "Lần đầu nắm tay em",
+      "description": "cảm giác ấm áp ấy chẳng thể nào quên",
+      "thumbnail": "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205529/memories%20with%20girlfriend/IMG_8334_dxy5e6.jpg",
+      "srcImages": [
+        "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205452/memories%20with%20girlfriend/IMG_0006_e6sset.jpg",
+        "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1730205529/memories%20with%20girlfriend/IMG_8334_dxy5e6.jpg"
+      ],
+      "created": "29/10/2024",
+      "updated": "29/10/2024",
+      "slug": "di-xem-phim-minions"
+    }
+  ]
 }
