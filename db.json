@@ -449,7 +449,10 @@
       "srcImages": [
         "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1732025138/memories%20with%20girlfriend/IMG_0865_vqqg1v.jpg",
         "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1732025139/memories%20with%20girlfriend/IMG_0866_az3sob.jpg"
-      ]
+      ],
+      "created": "19/11/2024",
+      "updated": "19/11/2024",
+      "slug": "qua-sinh-nhat"
     },
     {
       "id": 9,
@@ -458,7 +461,10 @@
       "thumbnail": "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1732025149/memories%20with%20girlfriend/IMG_0884_ofmkji.png",
       "srcImages": [
         "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1732025149/memories%20with%20girlfriend/IMG_0884_ofmkji.png"
-      ]
+      ],
+      "created": "19/11/2024",
+      "updated": "19/11/2024",
+      "slug": "chuoi-tiktok"
     },
     {
       "id": 10,
@@ -468,7 +474,10 @@
       "srcImages": [
         "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1732025565/memories%20with%20girlfriend/IMG_0913_yvo0ug.jpg",
         "https://res.cloudinary.com/dgh7tgs5l/image/upload/v1732025565/memories%20with%20girlfriend/IMG_0914_uxrjc9.jpg"
-      ]
+      ],
+      "created": "19/11/2024",
+      "updated": "19/11/2024",
+      "slug": "di-lotteria"
     }
   ]
 }
